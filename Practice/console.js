@@ -79,3 +79,5 @@ console.log(undefined || "default");  // "default"
 console.log(false || "default");      // "default"
 console.log(0 || "default");          // "default"
 console.log("" || "default");         // "default"
+
+console.log(3++ +'1')
