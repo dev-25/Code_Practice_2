@@ -11,3 +11,6 @@ console.log(itemIndex);
 
 let b = items[itemIndex].name
 console.log(b);
+
+
+let data = ()

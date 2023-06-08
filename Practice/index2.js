@@ -87,3 +87,5 @@ let b = a
 b = 20
 console.log(b) // 20
 console.log(a) // 10
+
+// COde11
