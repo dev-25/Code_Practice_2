@@ -30,6 +30,7 @@ add(12,2,(no) =>{
 })
 
 // Ans
+
 // 14
 // 3
 // DeveshSharma
