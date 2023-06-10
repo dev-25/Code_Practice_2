@@ -56,7 +56,7 @@ p(3,'dd')
 
 
 // Code4
-const add = (a,b) => {
+const add1 = (a,b) => {
     return new Promise((resolve, reject) => {
         let sum = a*b
         if (sum) resolve(sum)
@@ -64,7 +64,7 @@ const add = (a,b) => {
     });
 }
 
-add(1,)
+add1(1,)
 .then((result) => {
     console.log(result)
 })
